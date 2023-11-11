@@ -4,4 +4,4 @@
 
 ![](./icon.png)
 
-n user-centric, extensible, cross-platform publishing tool for publishing articles to platforms like Yuque etc.
+An user-centric, extensible, cross-platform publishing tool for publishing articles to platforms like Yuque etc.
