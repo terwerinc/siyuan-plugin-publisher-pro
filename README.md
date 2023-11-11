@@ -4,4 +4,4 @@
 
 ![](./icon.png)
 
-An user-centric, extensible, cross-platform publishing tool for publishing articles from siyuan-note to platforms like Yuque etc.
+n user-centric, extensible, cross-platform publishing tool for publishing articles to platforms like Yuque etc.
